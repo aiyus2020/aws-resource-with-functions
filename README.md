@@ -29,6 +29,7 @@ Replace `<environment>` with `local`, `testing`, or `production`.
 -- view the script here [script](./ec2-s3.sh)
 
 ## Screen Shots and Video
+![alt text](./imgs/aws-1.png) 
 ![alt text](./imgs/aws-2.png)  
 ![alt text](./imgs/aws-3.png)
 ![alt text](./imgs/aws-4.png)  
@@ -41,6 +42,6 @@ Replace `<environment>` with `local`, `testing`, or `production`.
 ![alt text](./imgs/aws-11.png)  
 ![alt text](./imgs/aws-12.png)  
 ![alt text](./imgs/aws-13.png)  
-![alt text](./imgs/aws-1.png)  
+ 
 
 <video controls src="./imgs/awe-vd.mp4" title="alt text"></video>
